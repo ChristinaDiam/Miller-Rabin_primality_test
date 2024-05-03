@@ -1,6 +1,6 @@
 ## Miller-Rabin Primality Test
 
-This repository contains a C program that implements the Miller-Rabin primality test to find strong probable primes within a specified range. The Miller-Rabin test is a probabilistic algorithm used to determine whether a given number is likely to be prime.
+This is a C program that implements the Miller-Rabin primality test to find strong probable primes within a specified range. The Miller-Rabin test is a probabilistic algorithm used to determine whether a given number is likely to be prime.
 
 ### Usage
 
